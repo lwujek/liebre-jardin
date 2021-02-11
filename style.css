@@ -227,35 +227,35 @@ h2 {
 }
 
 .s2 {
-    background: url("ressources/jardin-vert.jpg") no-repeat 0 0;
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-.s3 {
     background: url("ressources/jardin-noir1.jpg") no-repeat 0 0;
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
 
-.s4 {
+.s3 {
     background: url("ressources/jardin-blanc.jpg") no-repeat 0 0;
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
 
+.s4 {
+    background: url("ressources/jardin-noir1.jpg") no-repeat 0 0;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .s5 {
-    background: url("ressources/jardin-vert-noir.jpg") no-repeat 0 0;
+    background: url("ressources/jardin-blanc.jpg") no-repeat 0 0;
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 }
 
 .s6 {
-    background: url("ressources/jardin-noir-vert.jpg") no-repeat 0 0;
+    background: url("ressources/jardin-noir1.jpg") no-repeat 0 0;
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -373,38 +373,38 @@ h2 {
         font-size: 24px;
     }
     .section {
-        height: 175vh;
+        height: 190vh;
         width: 100%;
         position: relative;
     }
     .s2 {
         width: 100%;
         height: 100%;
-        background: url("ressources/jardin-vert-mobile.jpg") no-repeat 0 0;
+        background: url("ressources/jardin-noir-mobile.jpg") no-repeat 0 0;
         background-position: bottom center;
     }
     .s3 {
         width: 100%;
         height: 100%;
-        background: url("ressources/jardin-noir-mobile.jpg") no-repeat 0 0;
+        background: url("ressources/jardin-blanc-mobile.jpg") no-repeat 0 0;
         background-position: bottom center;
     }
     .s4 {
         width: 100%;
         height: 100%;
-        background: url("ressources/jardin-blanc-mobile.jpg") no-repeat 0 0;
+        background: url("ressources/jardin-noir-mobile.jpg") no-repeat 0 0;
         background-position: bottom center;
     }
     .s5 {
         width: 100%;
         height: 100%;
-        background: url("ressources/jardin-vert-noir-mobile.jpg") no-repeat 0 0;
+        background: url("ressources/jardin-vert-blanc-mobile.jpg") no-repeat 0 0;
         background-position: bottom center;
     }
     .s6 {
         width: 100%;
         height: 100%;
-        background: url("ressources/jardin-noir-vert-mobile.jpg") no-repeat 0 0;
+        background: url("ressources/jardin-noir-mobile.jpg") no-repeat 0 0;
         background-position: bottom center;
     }
 }
